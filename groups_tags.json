@@ -1,0 +1,70 @@
+{
+  "tags_groups": {
+    "Thai": [
+      "TH-THAI TEA",
+      "TH-SPARKLE",
+      "TH-SMOOTHIE",
+      "TH-MILK TEA",
+      "TH-MATCHA",
+      "TH-FRESH TEA",
+      "TH-COLD",
+      "TH-COCKTAIL",
+      "TH-BUTTER MILK",
+      "OH-SIGNATURE",
+      "OH-MILK TEA",
+      "OH-FRESH TEA",
+      "OH-SIGNATURE TEST",
+      "OH-MILK TEA TEST",
+      "TEST",
+      "TH-COFFEE"
+    ],
+    "Singapore": [
+      "SG-THAI TEA",
+      "SG-SPARKLE TEA",
+      "SG-SMOOTHIE",
+      "SG-MILK TEA",
+      "SG-MATCHA",
+      "SG-FRESH TEA",
+      "SG-COLD",
+      "SG-BUTTER MILK"
+    ],
+    "Australia": [
+      "Fire Tiger Series",
+      "Matcha Series",
+      "Chocolate Malt",
+      "Thai Tea Series",
+      "Mochi Series",
+      "Fruit Ice Tea",
+      "Fruit Slushie",
+      "Oat Milk",
+      "Butter Milk",
+      "Butter Oat Milk",
+      "Milk Tea",
+      "Sparkling Tea",
+      "Fresh Tea",
+      "Yanhong Series"
+    ],
+    "Spain": [
+      "THAI TEA-ESP",
+      "SPARKLE TEA-ESP",
+      "SLUSHIE-ESP",
+      "MILK TEA-ESP",
+      "MATCHA-ESP",
+      "FRESH TEA-ESP",
+      "FRUIT TEA-ESP",
+      "COFFEE-ESP",
+      "BUTTER MILK TEA-ESP"
+    ],
+    "USA": [
+      "THAI TEA-USA",
+      "SPARKLE TEA-USA",
+      "SLUSHIE-USA",
+      "MILK TEA-USA",
+      "MATCHA-USA",
+      "FRESH TEA-USA",
+      "FRUIT TEA-USA",
+      "COFFEE-USA",
+      "BUTTER MILK TEA-USA"
+    ]
+  }
+}
